@@ -3,7 +3,15 @@
 
 
 ## 🌐 Socials:
-<a href="https://href.to/https://facebook.com/Uma%20Surya%20Raghavendra%20Raghu" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a> <a href="https://href.to/https://instagram.com/raghu._.565" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a> <a href="https://href.to/https://linkedin.com/in/UMA%20SURYA%20RAGHAVENDRA%20INALA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:iusraghavendra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+
+| Platform | Direct Link |
+| :--- | :--- |
+| **LinkedIn** | [UMA SURYA RAGHAVENDRA INALA](https://linkedin.com/in/UMA%20SURYA%20RAGHAVENDRA%20INALA) |
+| **Email** | [iusraghavendra@gmail.com](mailto:iusraghavendra@gmail.com) |
+| **Instagram** | [@raghu._.565](https://instagram.com/raghu._.565) |
+| **Facebook** | [Uma Surya Raghavendra Raghu](https://facebook.com/Uma%20Surya%20Raghavendra%20Raghu) |
+
+*💡 Tip: Hold **Ctrl** (or **Cmd** on Mac) while clicking a link to open it in a handy new tab!*
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat&logo=Jasmine&logoColor=white)

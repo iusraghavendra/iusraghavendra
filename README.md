@@ -3,13 +3,7 @@
 
 
 ## 🌐 Socials:
-
-| Platform | Direct Link |
-| :--- | :--- |
-| **LinkedIn** | [UMA SURYA RAGHAVENDRA INALA](https://linkedin.com/in/UMA%20SURYA%20RAGHAVENDRA%20INALA) |
-| **Email** | [iusraghavendra@gmail.com](mailto:iusraghavendra@gmail.com) |
-| **Instagram** | [@raghu._.565](https://instagram.com/raghu._.565) |
-| **Facebook** | [Uma Surya Raghavendra Raghu](https://facebook.com/Uma%20Surya%20Raghavendra%20Raghu) |
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Uma%20Surya%20Raghavendra%20Raghu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raghu._.565) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/UMA%20SURYA%20RAGHAVENDRA%20INALA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iusraghavendra@gmail.com)
 
 *💡 Tip: Hold **Ctrl** (or **Cmd** on Mac) while clicking a link to open it in a handy new tab!*
 
